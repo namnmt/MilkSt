@@ -49,14 +49,6 @@ Nguyễn Mai Thành Nam	US05, US06
 Nguyễn Minh Đức	US07, US08    
 Đặng Đường An	US01, US02    
 
-User story report
-ID	User story name	Description	Issue type	Epic	Sprint
-US01	As a customer, I want to login	The customer needs to enter phone number and otp to login	Story	Manage Account	Sprint1
-US02	As a customer, I want to update my personal information, such as my name and email address, so that my account details are current.	Customers need to easily update their name, email, and other personal info to keep their account details accurate.	Story	Manage Account	Sprint1
-US03	As a store manager, I want to edit product details, such as descriptions and prices, so that the information is accurate and up-to-date.	Store managers need to update product descriptions and prices to ensure accuracy for customers.	Story	Manage Products	Sprint1
-US04	As a store manager, I want to upload images for products so that customers can see what they are purchasing.	Store manager upload product images for better customer visualization.	Story	Manage Products	Sprint1
-US05	As a store manager, I want to categorize products correctly so that they are easy for customers to find.	Store manager improve product categorization for customer browsing ease.	Story	Manage Products	Sprint1
-US06	As a customer, I want to enter my shipping information during checkout so that my order can be delivered to the correct address.	Customer enters shipping address during checkout and ensures order arrives at the right location.	Story	Checkout	Sprint1
-US07	As a customer, I want to choose my preferred payment method during checkout so that I can pay in a way that is convenient for me.	Customer wants to pick their own payment option at checkout for a smooth and convenient buying experience.	Story	Checkout	Sprint1
-US08	As a customer, I want to review my order details before finalizing the purchase so that I can ensure everything is correct.	Customer wants to see a summary of their shopping cart items (including any customizations) before checkout to confirm accuracy.	Story	Checkout	Sprint1
+![image](https://github.com/namnmt/MilkSt/assets/172255494/12d1387a-b9d0-47b1-be94-e1f85303bd84)
+
 
