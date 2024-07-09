@@ -43,11 +43,11 @@ The topic of this document is the Milk E-commerce project, which aims to develop
    - Payment transactions should be secure and compliant with industry standards.
 
 **Member report**
-Member	User story
-Phạm Việt Hàn	US03, US04
-Nguyễn Mai Thành Nam	US05, US06
-Nguyễn Minh Đức	US07, US08
-Đặng Đường An	US01, US02
+Member	User story    
+Phạm Việt Hàn	US03, US04    
+Nguyễn Mai Thành Nam	US05, US06    
+Nguyễn Minh Đức	US07, US08    
+Đặng Đường An	US01, US02    
 
 User story report
 ID	User story name	Description	Issue type	Epic	Sprint
