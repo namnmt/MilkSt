@@ -49,6 +49,7 @@ Nguyễn Mai Thành Nam	US03
 Nguyễn Minh Đức	US05   
 Đặng Đường An	US01, US02    
 
+![image](https://github.com/namnmt/MilkSt/assets/172255494/f824040a-59e5-46b7-a470-34ade0edc044)
 
 
 
