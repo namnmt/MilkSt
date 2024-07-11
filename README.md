@@ -44,11 +44,11 @@ The topic of this document is the Milk E-commerce project, which aims to develop
 
 **Member report**
 Member	User story    
-Phạm Việt Hàn	US03, US04    
-Nguyễn Mai Thành Nam	US05, US06    
-Nguyễn Minh Đức	US07, US08    
+Phạm Việt Hàn	 US04    
+Nguyễn Mai Thành Nam	US03   
+Nguyễn Minh Đức	US05   
 Đặng Đường An	US01, US02    
 
-![image](https://github.com/namnmt/MilkSt/assets/172255494/12d1387a-b9d0-47b1-be94-e1f85303bd84)
+
 
 
