@@ -44,8 +44,8 @@ The topic of this document is the Milk E-commerce project, which aims to develop
 
 **Member report**
 Member	User story    
-Phạm Việt Hàn	 US04   US05 
-Nguyễn Mai Thành Nam	US03   
+Phạm Việt Hàn	 US04   US05     
+Nguyễn Mai Thành Nam	US03       
 Nguyễn Minh Đức	US06 , US 07, US 08  
 Đặng Đường An	US01, US02    
 
