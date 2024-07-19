@@ -23,7 +23,7 @@ Acceptance Criteria:
 Member can view their profile information.    
 Member can edit their profile information and save changes.    
 
-**Epic: Product Management**
+**Epic: Product Management**    
 User Story 4: Search for Products    
 As a Guest or Member, I want to search for milk products by type or brand, so that I can find specific products easily.    
 Acceptance Criteria:    
@@ -41,47 +41,47 @@ Admin or Staff can add new products.
 Admin or Staff can update existing products.    
 Admin or Staff can delete products.    
 Admin or Staff can view a list of products.    
-Epic: Order Management    
+**Epic: Order Management**    
 User Story 7: Place an Order    
 As a Member, I want to place an order by adding products to my cart and proceeding to payment, so that I can purchase products.    
 Acceptance Criteria:    
 oMember can add products to their cart.    
 oMember can proceed to checkout and make a payment.    
 User Story 8: View Order Details    
-As a Member, I want to view the details of my orders, so that I can track my purchases.    
-Acceptance Criteria:    
-oMember can view details of individual orders.    
-oMember can view their order history.    
+As a Member, I want to view the details of my orders, so that I can track my purchases.    
+Acceptance Criteria:    
+Member can view details of individual orders.    
+Member can view their order history.    
 User Story 9: Manage Orders    
-As an Admin or Staff, I want to confirm orders and update order status, so that order processing is efficient.    
-Acceptance Criteria:    
-oAdmin or Staff can confirm new orders.    
-oAdmin or Staff can update the status of existing orders.    
-oAdmin or Staff can view a list of orders.    
-Epic: Voucher Management    
+As an Admin or Staff, I want to confirm orders and update order status, so that order processing is efficient.    
+Acceptance Criteria:    
+Admin or Staff can confirm new orders.    
+Admin or Staff can update the status of existing orders.    
+Admin or Staff can view a list of orders.    
+**Epic: Voucher Management**    
 User Story 10: Manage Vouchers    
-As an Admin or Staff, I want to add, update, or delete voucher codes, so that customers can use them for discounts.    
-Acceptance Criteria:    
-oAdmin or Staff can add new vouchers.    
-oAdmin or Staff can update existing vouchers.    
-oAdmin or Staff can delete vouchers.    
-oAdmin or Staff can view a list of vouchers.    
+As an Admin or Staff, I want to add, update, or delete voucher codes, so that customers can use them for discounts.    
+Acceptance Criteria:    
+Admin or Staff can add new vouchers.    
+Admin or Staff can update existing vouchers.    
+Admin or Staff can delete vouchers.    
+Admin or Staff can view a list of vouchers.    
 User Story 11: Use Vouchers    
-As a Member, I want to use vouchers during purchase, so that I can get discounts on products.    
-Acceptance Criteria:    
-oMember can apply vouchers at checkout.    
-oSystem validates and applies the voucher to the purchase.    
+As a Member, I want to use vouchers during purchase, so that I can get discounts on products.    
+Acceptance Criteria:    
+Member can apply vouchers at checkout.    
+System validates and applies the voucher to the purchase.    
 Epic: Review and Feedback    
 User Story 12: Provide Product Feedback    
-As a Member, I want to review and provide feedback on products I have purchased, so that I can share my experience with others.    
-Acceptance Criteria:    
-oMember can submit reviews and feedback for products.    
-oMember can view reviews from other users.    
-Epic: Sales Statistics    
+As a Member, I want to review and provide feedback on products I have purchased, so that I can share my experience with others.    
+Acceptance Criteria:    
+Member can submit reviews and feedback for products.    
+Member can view reviews from other users.    
+**Epic: Sales Statistics** 
 User Story 13: View Sales Statistics    
-As an Admin, I want to view sales statistics, so that I can analyze the performance of the store.    
-Acceptance Criteria:    
-oAdmin can view reports and statistics on sales data.    
+As an Admin, I want to view sales statistics, so that I can analyze the performance of the store.    
+Acceptance Criteria:    
+Admin can view reports and statistics on sales data.    
 These epics and user stories will help organize and prioritize the development tasks for the Hana Milk Store project, ensuring a structured approach to meeting user needs and system requirements.    
 ### Applied Technologies:
 1. **User Interface**:
