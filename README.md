@@ -10,22 +10,78 @@ The topic of this document is the Milk E-commerce project, which aims to develop
     - Compatibility with modern web browsers.
     - Integration with external payment gateways and shipping carriers.
 
-### Major Features (Epics):
-1. **Browse Products**: Customers can search and filter products by category, brand, price, etc.
-2. **Add to Cart**: Customers can add products to their shopping cart.
-3. **Checkout**: Customers complete their purchase by providing shipping and payment information.
-4. **View Order History**: Customers can view their past orders and track their current orders.
-5. **Write Reviews**: Customers can write reviews for products they have purchased.
-6. **Manage Account**: Customers can update their personal information, change their password, and view their order history.
-7. **Manage Inventory**: Sellers can add, update, and delete products from their inventory.
-8. **Process Orders**: Sellers can view and process new orders, update order status, and generate shipping labels.
-9. **Manage Reviews**: Sellers can view and respond to customer reviews.
-10. **View Sales Reports**: Sellers can view their sales data, including revenue, units sold, and top-selling products.
-11. **Manage Users**: Admins can add, update, and delete user accounts (customers and sellers).
-12. **Manage Products**: Admins can add, update, and delete products from the entire site.
-13. **Manage Categories**: Admins can add, update, and delete product categories.
-14. **View Site Analytics**: Admins can view site traffic data, conversion rates, and other key metrics.
+User Story 1: User Registration
+As a Guest, I want to register by providing my personal information, so that I can become a Member.
 
+oUpon successful registration, Guest becomes a Member.
+User Story 2: User Login
+As a Member, I want to log in using my credentials, so that I can access my account.
+
+User Story 3: Profile Management
+As a Member, I want to view and edit my profile, so that I can keep my information up to date.
+Acceptance Criteria:
+oMember can view their profile information.
+oMember can edit their profile information and save changes.
+Epic: Product Management
+User Story 4: Search for Products
+As a Guest or Member, I want to search for milk products by type or brand, so that I can find specific products easily.
+Acceptance Criteria:
+oUser can access the search functionality.
+oUser can search for products by type.
+oUser can search for products by brand name.
+User Story 5: View Product Details
+As a Guest or Member, I want to view detailed information about a product, so that I can make an informed purchase decision.
+Acceptance Criteria:
+oUser can view detailed information about a selected product.
+User Story 6: Manage Products
+As an Admin or Staff, I want to add, update, or delete products, so that the product catalog remains current.
+Acceptance Criteria:
+oAdmin or Staff can add new products.
+oAdmin or Staff can update existing products.
+oAdmin or Staff can delete products.
+oAdmin or Staff can view a list of products.
+Epic: Order Management
+User Story 7: Place an Order
+As a Member, I want to place an order by adding products to my cart and proceeding to payment, so that I can purchase products.
+Acceptance Criteria:
+oMember can add products to their cart.
+oMember can proceed to checkout and make a payment.
+User Story 8: View Order Details
+As a Member, I want to view the details of my orders, so that I can track my purchases.
+Acceptance Criteria:
+oMember can view details of individual orders.
+oMember can view their order history.
+User Story 9: Manage Orders
+As an Admin or Staff, I want to confirm orders and update order status, so that order processing is efficient.
+Acceptance Criteria:
+oAdmin or Staff can confirm new orders.
+oAdmin or Staff can update the status of existing orders.
+oAdmin or Staff can view a list of orders.
+Epic: Voucher Management
+User Story 10: Manage Vouchers
+As an Admin or Staff, I want to add, update, or delete voucher codes, so that customers can use them for discounts.
+Acceptance Criteria:
+oAdmin or Staff can add new vouchers.
+oAdmin or Staff can update existing vouchers.
+oAdmin or Staff can delete vouchers.
+oAdmin or Staff can view a list of vouchers.
+User Story 11: Use Vouchers
+As a Member, I want to use vouchers during purchase, so that I can get discounts on products.
+Acceptance Criteria:
+oMember can apply vouchers at checkout.
+oSystem validates and applies the voucher to the purchase.
+Epic: Review and Feedback
+User Story 12: Provide Product Feedback
+As a Member, I want to review and provide feedback on products I have purchased, so that I can share my experience with others.
+Acceptance Criteria:
+oMember can submit reviews and feedback for products.
+oMember can view reviews from other users.
+Epic: Sales Statistics
+User Story 13: View Sales Statistics
+As an Admin, I want to view sales statistics, so that I can analyze the performance of the store.
+Acceptance Criteria:
+oAdmin can view reports and statistics on sales data.
+These epics and user stories will help organize and prioritize the development tasks for the Hana Milk Store project, ensuring a structured approach to meeting user needs and system requirements.
 ### Applied Technologies:
 1. **User Interface**:
    - Responsive web design for customers, sellers, and admins.
