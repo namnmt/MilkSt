@@ -8,8 +8,8 @@ The topic of this document is the Milk E-commerce project, which aims to develop
 2. **Scope**: The development and testing of the features described in this SRS, including:
     - Functional testing for all user roles (Customer, Seller, Admin).
     - Compatibility with modern web browsers.
-    - Integration with external payment gateways and shipping carriers.
-**Epic: User Account Management**
+    - Integration with external payment gateways and shipping carriers.    
+**Epic: User Account Management**    
 User Story 1: User Registration
 As a Guest, I want to register by providing my personal information, so that I can become a Member.    
     
